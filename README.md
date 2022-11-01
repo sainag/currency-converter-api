@@ -12,6 +12,7 @@ Currency Converter API built with Laravel 8.
 ## Tech
 - Laravel 8.75
 - PHPUnit 9.5.10
+- Mysql
 
 ## Installation
 Install the dependencies and devDependencies and start the server.
