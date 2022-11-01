@@ -59,6 +59,12 @@ CURRENCY_DATA_API_KEY=**currency api key**
 
 Read more about production deployement https://laravel.com/docs/8.x/deployment
 
+### Run Tests
+
+```sh
+php artisan test
+```
+
 ## License
 
 MIT
